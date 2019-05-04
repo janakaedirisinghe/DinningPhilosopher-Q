@@ -1,13 +1,15 @@
-import java.util.Random;
-import java.util.concurrent.Semaphore;
-
-//
-
-
 /**
  * JP Edirisinghe
    SE/2016/007
  */
+
+import java.util.Random;
+import java.util.concurrent.Semaphore;
+
+
+
+
+
 
 public class DiningProffesor {
 

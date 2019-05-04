@@ -5,8 +5,8 @@ import java.util.concurrent.Semaphore;
 
 
 /**
- * Sachindra Fernando
-   SE/2016/054
+ * JP Edirisinghe
+   SE/2016/007
  */
 
 public class DiningProffesor {
